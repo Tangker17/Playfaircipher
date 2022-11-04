@@ -13,7 +13,7 @@
 
 # PYTHON
 # ENCRYPT
-<img width="849" alt="ENCRYPT PYTHON" src="https://user-images.githubusercontent.com/73053784/199761957-e48d1e58-6218-434b-892a-a39bf9ad0406.png">
+![image](foto1.png)
 
 # DECRYPT
 <img width="322" alt="DECRYPT PYTHON" src="https://user-images.githubusercontent.com/73053784/199762015-f0e5b0e4-d7a6-433e-97cd-d23fbed1c7ad.png">
