@@ -1,7 +1,7 @@
 # PlayfairCipher
 
-## Nama   : Ery Shandy
-## NIM    : 312010201
+## Nama   : Ramon Misterhadi
+## NIM    : 312010508
 ## Kelas  : TI.20.A2
 ## Matkul : Kriptografi
 
